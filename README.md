@@ -1,22 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+TOXIC-ALEXA;THIS+BOT+MADE+BY+TURBO+%26+JIFI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%23ff0000&size=32&lines=WELCOME+TO+FOXY-MD;THIS+BOT+MADE+BY+JS-MASTER)](https://git.io/typing-svg)
 <div align="center">
-        <img src="https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg" alt="GIF" width="250" height="250"/>
+        <img src="https://i.imgur.com/Mc2LJC8.jpeg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="Toxic-Alexa" src="https://img.shields.io/badge/Toxic-Alexa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FOXY-MDV1" src="https://img.shields.io/badge/FOXY-MDV1-green?colorA=%23ff0000&colorB=%2336BCF7&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to make it public
+Project created by <a href="https://github.com/js-masterofc">js-masterofc</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/Toxic-Alexa&title=Toxic-Alexa%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/js-masterofc/FOXY-MDV1/edit/master&title=FOXY-MDV1%20Views)
 
 ## Setup
 <div align="center">
